@@ -1,0 +1,20 @@
+{
+  "name": "the-animation-series",
+  "version": "0.0.1",
+  "description": "the animation series is built to bundle various kind of animation effects and interactions to boost the performance of web applications.",
+  "keywords": [
+    "the-animation-series",
+    "motion",
+    "gsap"
+  ],
+  "homepage": "https://github.com/codezaura/the-animation-series#readme",
+  "bugs": {
+    "url": "https://github.com/codezaura/the-animation-series/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codezaura/the-animation-series.git"
+  },
+  "license": "MIT",
+  "author": "codezaura"
+}
