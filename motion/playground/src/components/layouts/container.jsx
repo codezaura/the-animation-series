@@ -2,7 +2,7 @@ export function Container({ children }) {
   return (
     <div
       style={{
-        maxWidth: 720,
+        maxWidth: 840,
         padding: "8px",
         margin: "0px auto",
       }}
