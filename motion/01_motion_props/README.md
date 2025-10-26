@@ -27,4 +27,6 @@ function Animate() {
 
 Inside these initial and animate we can use any transform property.
 
+You can start working with `motion` by using these starter props.
 
+_In the next chapter we will write some modular animation code using variants._
